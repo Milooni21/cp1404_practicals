@@ -12,7 +12,7 @@ def main():
             print("Invalid short state")
         state = input("Enter short state: ").upper()
 
-    # 4. Write a loop that prints all of the states and names neatly lined up with string formatting,
+    # Write a loop that prints all of the states and names neatly lined up with string formatting.
 
     for key, value in CODE_TO_NAME.items():
         print(key, "is", value)
