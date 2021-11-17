@@ -1,2 +1,2 @@
-# cp1404_practicals
+# CP1404_practicals
 cp1404 practicals
